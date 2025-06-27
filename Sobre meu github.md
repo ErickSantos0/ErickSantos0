@@ -63,4 +63,7 @@ Sempre gostei de tecnoliga e a cada dia que passo gosto mais e isso acaba virand
 I´m driven by challenges and learning. My goal is to become a high-level backend developer, with mastery in Java, Python, databases, and system architecture. 
 At the moment, I am deepening my knowledge in Python and databases — and of course, practicing with real projects.
 
+
+Sou movido por desafios e aprendizado. Meu objetivo é me tornar um desenvolvedor backend de alto nível, com domínio em Java, Python, bancos de dados e arquitetura de sistemas.
+No momento, estou aprofundando meus conhecimentos em Python e bancos de dados — e, claro, praticando com projetos reais.
 ---
