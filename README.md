@@ -1,6 +1,6 @@
 👨🏻‍💻 Erick Nascimento Dos Santos
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
 My name is Érick. I'm 20 years old and I'm in my 5th semester of college studying multiplatform software development at Fatec PG.
 I've always liked techno league and every day I like it more and more, which ends up motivating me to study.
