@@ -42,7 +42,7 @@ Sempre gostei de tecnoliga e a cada dia que passo gosto mais e isso acaba virand
 
 <p align="left">
   
-  <img height="170vh" src="https://github-readme-stats.vercel.app/api?username=devLuisdeAaraujo&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="170vh" src="https://github-readme-stats.vercel.app/api?username=ErickSantos0&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br">
 </p>
 
 
