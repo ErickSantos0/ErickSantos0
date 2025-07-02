@@ -48,16 +48,6 @@ Sempre gostei de tecnoliga e a cada dia que passo gosto mais e isso acaba virand
 
 ---
 
-### 📈 Produtividade em foco
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickSantos0&theme=tokyonight" alt="Resumo do perfil"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErickSantos0&theme=tokyonight&utcOffset=-3" alt="Horas mais produtivas"/>
-</p>
-
-
----
-
 ### 🧠 Continuos evolution...
 
 I´m driven by challenges and learning. My goal is to become a high-level backend developer, with mastery in Java, Python, databases, and system architecture. 
