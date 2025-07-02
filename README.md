@@ -38,16 +38,6 @@ Sempre gostei de tecnoliga e a cada dia que passo gosto mais e isso acaba virand
 
 ---
 
-### 📊 Professional Statistics
-
-<p align="left">
-  
-  <img height="170vh" src="https://github-readme-stats.vercel.app/api?username=ErickSantos0&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br">
-</p>
-
-
----
-
 ### 🧠 Continuos evolution...
 
 I´m driven by challenges and learning. My goal is to become a high-level backend developer, with mastery in Java, Python, databases, and system architecture. 
