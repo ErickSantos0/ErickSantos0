@@ -5,7 +5,7 @@
 My name is Érick. I'm 21 years old and I'm in my 5th semester of college studying multiplatform software development at Fatec PG.
 I've always liked techno league and every day I like it more and more, which ends up motivating me to study.
 
-Meu nome é Érick. Tenho 20 anos estou no 5º semestre da faculdade de desenvolvimento de software multiplataforma na Fatec PG.
+Meu nome é Érick. Tenho 21 anos estou no 5º semestre da faculdade de desenvolvimento de software multiplataforma na Fatec PG.
 Sempre gostei de tecnoliga e a cada dia que passo gosto mais e isso acaba virando motivação para meus estudos.
 ---
 
